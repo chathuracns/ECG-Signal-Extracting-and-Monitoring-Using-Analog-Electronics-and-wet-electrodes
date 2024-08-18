@@ -51,3 +51,4 @@ The system consists of the following main components:
 This project was submitted in partial fulfillment of the requirements for the module EN 2091 Laboratory Practice and Projects at the University of Moratuwa, Sri Lanka.
 
 ## License
+GNU GENERAL PUBLIC LICENSE
