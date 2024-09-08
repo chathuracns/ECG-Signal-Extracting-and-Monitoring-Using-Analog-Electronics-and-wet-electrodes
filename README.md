@@ -2,7 +2,7 @@
 
 ## Overview
 This project is an ECG (Electrocardiogram) waveform output and display heart monitor developed by a team of students from the Department of Electronic & Telecommunication Engineering, University of Moratuwa, Sri Lanka. The device is designed to amplify and display the small ECG voltage signal (0.1 mV to 10mV) while effectively managing noise interference.
-
+[Video](https://www.linkedin.com/posts/chathura-weerasinghe-9a08bb213_ecg-biomedicalengineering-analogelectronics-activity-7230936167209189376-2sdM?utm_source=share&utm_medium=member_desktop)
 ## Features
 - Right Leg Drive circuit for common-mode signal cancellation
 - Instrumentation Amplifier for signal amplification and common noise elimination
