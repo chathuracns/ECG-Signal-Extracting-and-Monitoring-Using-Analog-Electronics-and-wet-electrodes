@@ -34,12 +34,7 @@ The system consists of the following main components:
 ## Enclosure
 - Designed using Solidworks
 - Features removable top cover and detachable front for easy maintenance
-- Includes power switch, tuning knob, and strategically placed connectors
-
-## Future Work
-- Integration of a display for immediate visual feedback
-- Real-time data plotting via serial communication using ESP32
-- Optimization of graph plotting accuracy and reduction of delays
+- Includes power switch, tuning knob, and strategically placed connectorsi
 
 ## Contributors
 - Kumarasinghe R.D (210321X)
